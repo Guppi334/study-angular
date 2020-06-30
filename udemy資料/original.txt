@@ -1,2 +1,0 @@
-クイックスタート用のファイルはこちらからもダウンロードできます。
-https://github.com/angular/quickstart
